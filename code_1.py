@@ -33,7 +33,7 @@ arrow_rect = arrow.get_rect()
 
 ground_surface = pygame.transform.scale(ground_surface, (800, 800))
 
-mouse_speed = 6  # Set the speed of the mouse
+mouse_speed = 7  # Set the speed of the mouse
 last_mouse_x = mouse_rect.centerx  # Store the last x-coordinate
 
 
